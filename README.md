@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ayad Siddiqui (@aylien8090)
+# 👋 Hi, I’m Ayad Siddiqui
 
 🎯 **Aspiring to be in the Top 1% Cyber Security Professionals Worldwide**  
 🌍 Multilingual communicator with a deep understanding of community needs  
