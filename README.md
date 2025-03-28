@@ -101,10 +101,8 @@ _Used Wireshark, Cisco Packet Tracer, and terminal tools to simulate, attack, an
 
 ## 💞️ Let's Connect!
 
-Want to collaborate or just say Salaam?  
+Want to collaborate?
 **📧 Email:** ayad8090@gmail.com  
-**📞 Phone:** 0470-222-129  
-**🔗 LinkedIn/GitHub/Website:** Links coming soon!
 
 ---
 
