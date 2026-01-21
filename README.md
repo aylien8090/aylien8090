@@ -44,7 +44,7 @@ Currently working as an **Incident Response Analyst** at [Gridware](https://www.
 - Liaised with stakeholders from LinkedIn, Snapchat, Kone
 - Delivered project-based software analysis and UI design feedback
 
-### 🛠️ **ICT Support**, Ayad and Ibad Pty — *Mar 2021 – Jan 2024*
+### 🛠️ **ICT Support**, **** and **** Pty — *Mar 2021 – Jan 2024*
 - Set up IT infrastructure (routers, systems, printers)
 - Provided Microsoft and iOS/Windows training and support
 
@@ -98,11 +98,6 @@ _Used Wireshark, Cisco Packet Tracer, and terminal tools to simulate, attack, an
 - 🧠 Passionate about AI, digital forensics, and making cyberspace safer for all
 
 ---
-
-## 💞️ Let's Connect!
-
-Want to collaborate?
-**📧 Email:** ayad8090@gmail.com  
 
 ---
 
